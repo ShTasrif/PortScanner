@@ -1,0 +1,388 @@
+TP-Link
+D-Link
+Netgear
+Asus
+Cisco
+Linksys
+Huawei
+ZTE
+Tenda
+MikroTik
+Ubiquiti
+Juniper Networks
+Belkin
+Buffalo
+TOTOLINK
+Mercusys
+Xiaomi
+Google Nest
+Arris
+Motorola
+DrayTek
+Synology
+Edimax
+TRENDnet
+Alcatel-Lucent Enterprise
+H3C
+Aruba Networks
+Extreme Networks
+Fortinet
+Palo Alto Networks
+SonicWall
+Cambium Networks
+Cradlepoint
+Billion
+AVM FRITZ!Box
+GL.iNet
+EnGenius
+Zyxel
+Technicolor
+Sagemcom
+Netis
+Amped Wireless
+Eero
+Mimosa Networks
+Planet Technology
+Teltonika
+Cudy
+Wavlink
+iBall
+Digisol
+Hikvision
+Ruckus Wireless
+WatchGuard
+Edgecore Networks
+Peplink
+DASAN
+FiberHome
+Actiontec
+SmartRG
+Comtrend
+Alpha Networks
+AirLive
+Phicomm
+Arcadyan
+Sercomm
+BEC Technologies
+Jetstream
+On Networks
+Grandstream
+Moxa
+Yamaha Network
+NEC Platforms
+Siemens Ruggedcom
+Allied Telesis
+Brocade
+Ciena
+RAD Data Communications
+Turris
+Open Mesh
+IgniteNet
+IP-COM
+Winstars
+LB-Link
+KuWFi
+Pix-Link
+Prolink
+Aztech
+Corega
+Rosewill
+Sierra Wireless
+Dovado
+Zoom Telephonics
+Xirrus
+Aerohive Networks
+MoFi Network
+Firewalla
+Protectli
+PC Engines
+Sophos
+Barracuda Networks
+Meraki
+Cloud Core Router
+NetComm Wireless
+Sparklan
+Zhone Technologies
+Calix
+Versa Networks
+Adtran
+Nokia Networks
+Ericsson
+Infinet Wireless
+Ceragon Networks
+Ubee Interactive
+Hitron
+Kaonmedia
+Thomson
+Bintec Elmeg
+Lancom Systems
+Telco Systems
+Alvarion
+Redline Communications
+Proxim Wireless
+Wi-Tek
+Shuttle
+Repotec
+Tiesse
+Four-Faith
+Robustel
+Multitech
+Encore Networks
+Alfa Network
+Loopcomm
+TOTOLINK Wireless
+CNet Technology
+Surecom
+Zycoo
+3Com
+US Robotics
+Westell
+Silex Technology
+DrayOS
+EdgeRouter
+UniFi
+Omada
+Ruijie Networks
+Maipu
+Raisecom
+Oray
+TotoLink
+Secutech
+MT-Link
+Kasda
+Netcore
+HiWiFi
+Askey
+Gemtek
+Sagem
+ZLT
+MitraStar
+T&W
+Skylink
+GVC
+Netronics
+QNAP
+Amped
+Pharos
+Telrad Networks
+WiBox
+DZS
+RADWIN
+Ignite
+WiFiX
+OpenWrt One
+GL-X
+Netduma
+Adimax
+Araknis Networks
+Luxul
+Pakedge
+DZS Systems
+Xiaomi Redmi Router
+TCL Networking
+Sharp Router Division
+Panasonic Networking
+Baidu Router
+360 Secure Router
+Toshiba Networking
+Elecom
+I-O Data
+Planex
+IOGEAR
+SonicNet
+Comba Telecom
+Mikrotik RouterBOARD
+Edgewater Networks
+Nomadix
+Coriant
+Casa Systems
+Tilgin
+Inteno
+Genexis
+Airspan
+Zinwell
+BEC
+Alpha Telecom
+RavPower
+Smartrg
+UfiSpace
+Datto Networking
+TelcoBridges
+Ribbon Communications
+Planet Wireless
+ATOP Technologies
+LigoWave
+NetModule
+Westermo
+Acksys
+Korenix
+Oring Industrial
+Lantronix
+Volktek
+AboCom
+ReadyNet
+Beeline
+Skyworth Networking
+Fiberlogic
+Maxis Router
+Huawei Honor Router
+Tata Networking
+Jio Router
+ACT Fibernet Router
+CenturyLink Router
+BT Home Hub
+Sky Router
+Vodafone Router
+Orange Livebox
+SFR Box
+Freebox
+TalkTalk Router
+EE Router
+Plusnet Router
+Virgin Media Hub
+Xfinity Gateway
+Spectrum Router
+Cox Panoramic Router
+Frontier Router
+Windstream Router
+NetCologne Router
+Swisscom Router
+Telekom Speedport
+====ONU===
+Huawei
+ZTE
+FiberHome
+Nokia
+Alcatel-Lucent
+Calix
+DASAN Zhone
+Zhone Technologies
+Raisecom
+H3C
+BDCOM
+VSOL
+C-Data
+OptiXstar
+TP-Link
+Tenda
+D-Link
+Netgear
+Ubiquiti
+MikroTik
+AirLive
+UTStarcom
+Genexis
+Iskratel
+Dasan Networks
+Edgecore Networks
+HiSense Broadband
+Skyworth
+Sercomm
+Arcadyan
+Actiontec
+Hitron
+Ubee
+SmartRG
+Kaonmedia
+Sagemcom
+Technicolor
+Comtrend
+Zyxel
+Alpha Networks
+Loopcomm
+Gemtek
+Askey
+MitraStar
+Billion
+BEC Technologies
+DrayTek
+Proscend
+Planet Technology
+Telrad
+RAD Data Communications
+Telco Systems
+Adtran
+DZS
+Casa Systems
+Ribbon Communications
+Comba Telecom
+Inno Instrument
+HSGQ
+V-Solution
+Optilink
+T&W
+GL.iNet
+Cortina Access
+Hisense
+CIG (Cambridge Industries Group)
+Chima
+Skylink
+Shenzhen Gongjin
+Shenzhen BDCOM
+Shenzhen Tenda
+Shenzhen VSOL
+Shenzhen C-Data
+Shenzhen T&W
+Shenzhen UT-King
+UT-King Technology
+Baudcom
+Optonet
+Oltstar
+Zisa
+HSGQ Fiber
+Optiwave
+Yingtong
+Wavlink
+IP-COM
+LB-Link
+KuWFi
+Netcore
+HUAWEI EchoLife
+ZTE ZXHN
+FiberHome AN5506
+Nokia G-240G
+Calix 844G
+Dasan H660GM
+VSOL V2801
+BDCOM GP1704
+C-Data FD511
+OptiXstar HG8145X6
+Raisecom ISCOM
+H3C Magic
+Zyxel PMG5617
+Sagemcom F@st 5670
+Technicolor FGA2233
+Hitron Fiber ONU
+Sercomm FG1000
+Arcadyan Fiber Gateway
+Actiontec GT784WN
+Ubee Fiber Gateway
+SmartRG SR400ac
+Kaon Fiber Gateway
+MitraStar GPT-2541
+Askey RTF3505VW
+Gemtek Fiber ONU
+Alpha Fiber Unit
+BEC Fiber Series
+DrayTek Vigor ONU
+Proscend Fiber
+Planet GPON
+Adtran SDX Series
+DZS ZNID
+Casa Fiber Gateway
+Ribbon Fiber Unit
+Comba GPON
+Telrad Fiber ONU
+RAD ETX Series
+Telco Systems T-Marc
+Cortina GPON
+Optilink ONU
+Baudcom GPON
+UTStarcom ONU
+Genexis Titanium
+Iskratel Innbox
+Skyworth Fiber ONU
+Hisense Fiber Gateway
+Shenzhen Gongjin ONU
+hikvision
+dahua
